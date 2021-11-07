@@ -7,7 +7,7 @@ Create a mobile app to fetch todos from a restful api and show on screen. Below 
 Screen:
 Todo list screen
 
-Use case
+Use case:
 User can see todo list
 
 Details
@@ -23,21 +23,6 @@ API Specification
 - Method GET
 - Endpoint /todos
 - Response example: HTTP code 200
-  [
-    {
-      "userId": 1,
-      "id": 1,
-      "title": "delectus aut autem",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 2,
-      "title": "quis ut nam facilis et officia qui",
-      "completed": false
-    },
-    …
-  ]
   
 ## Technical Requirements
 
